@@ -1,0 +1,24 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sun, 21 Aug 2016 22:24:54 at http://mitlaunch.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mitlaunch.com/ -O1 "E:\MIT Launch Club\MIT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:25:03	Error: 	"Not Found" (404) at link mitlaunch.com/assets/favicons/manifest.json (from mitlaunch.com/)
+22:25:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mitlaunch.com/assets/mit_dome.jpg (from mitlaunch.com/)
+22:25:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mitlaunch.com/assets/js/jquery-1.10.2.js (from mitlaunch.com/)
+22:25:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mitlaunch.com/assets/js/bootstrap.min.js (from mitlaunch.com/)
+22:25:11	Error: 	"Not Found" (404) at link mitlaunch.com/assets/js/jquery.magnific-popup/jquery.magnific-popup.min.js (from mitlaunch.com/)
+22:25:11	Error: 	"Not Found" (404) at link mitlaunch.com/assets/js/timeline.js (from mitlaunch.com/)
+22:25:12	Error: 	"Not Found" (404) at link mitlaunch.com/assets/fonts/glyphicons-halflings-regular.eot (from mitlaunch.com/assets/css/bootstrap.min.css)
+22:25:12	Error: 	"Not Found" (404) at link mitlaunch.com/assets/fonts/glyphicons-halflings-regular.eot? (from mitlaunch.com/assets/css/bootstrap.min.css)
+22:25:13	Error: 	"Not Found" (404) at link mitlaunch.com/assets/fonts/glyphicons-halflings-regular.woff (from mitlaunch.com/assets/css/bootstrap.min.css)
+22:25:13	Error: 	"Not Found" (404) at link mitlaunch.com/assets/fonts/glyphicons-halflings-regular.ttf (from mitlaunch.com/assets/css/bootstrap.min.css)
+22:25:13	Error: 	"Not Found" (404) at link mitlaunch.com/assets/fonts/glyphicons-halflings-regular.svg (from mitlaunch.com/assets/css/bootstrap.min.css)
+22:25:13	Error: 	"Not Found" (404) at link mitlaunch.com/assets/css/grabbing.png (from mitlaunch.com/assets/css/owl.carousel.css)
+22:25:13	Error: 	"Not Found" (404) at link mitlaunch.com/assets/css/AjaxLoader.gif (from mitlaunch.com/assets/css/owl.theme.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 36 seconds : 163 links scanned, 149 files written (24717729 bytes overall), 8 files updated [120671 bytes received at 3351 bytes/sec], 264196 bytes transferred using HTTP compression in 12 files, ratio 27%, 14.8 requests per connection
+(10 errors, 3 warnings, 0 messages)
